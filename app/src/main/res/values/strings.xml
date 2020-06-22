@@ -2,4 +2,8 @@
     <string name="app_name">About Me</string>
     <string name="name">Khongor Battogtokh</string>
     <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hello, My name is Khongor Battogtokh
+    \n\nI love playing basketball.
+    \nIn most of my free time I live to watch anime and read manga.
+    \nMy favorite activity is cooking dinner for myself or for the guest in my house.\n\n</string>
 </resources>
